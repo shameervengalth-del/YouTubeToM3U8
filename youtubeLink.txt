@@ -3,8 +3,8 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-മീഡിയ One (jazzy & lofi hip hop beats) || Chillhop.yt || Music
-https://www.youtube.com/live/-8d8-c0yvyU?si=Lh0qV0ObQfgd6Q0m
+MediaOne TV live(Malayalam News Live) || Mediaone.yt || NEWS
+https://www.youtube.com/watch?si=Lh0qV0ObQfgd6Q0m
 
 Avex J-Pop 24/7 || Avex.yt || Music
 https://www.youtube.com/watch?v=tr77RbnfYIU
